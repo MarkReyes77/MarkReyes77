@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MarkReyes77
+- 👋 Hi, I’m @MarkConfig
 - 👀 I’m interested in to create things
 - 🌱 I’m currently learning javascript frameworks
 - 💞️ I’m looking to collaborate on in any technology company
