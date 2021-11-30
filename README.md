@@ -1,4 +1,4 @@
-![imagen de cabecera](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp8hyKYx3k2wbYV3iwyqaC_oahM8p_vputFuSLxV7mI2VVXTwoWXzHAoc&s=10)
+![imagen de cabecera](/images/portada.jpg)
 >
 # 👋 Hi, I’m Marcos !
 ***
